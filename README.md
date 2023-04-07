@@ -1,6 +1,6 @@
 
 
- ```Specs```
+ # Specs
  
 Motherboard: Asus H410M-E<br>
 CPU: Intel Core I5-10400<br>
