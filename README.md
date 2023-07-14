@@ -2,7 +2,7 @@
 
 ***Specs***
  
-Motherboard: Asus H410M-E<br>
++ Motherboard: Asus H410M-E<br>
 CPU: Intel Core I5-10400<br>
 GPU: None<br>
  IGPU : Intel UHD 630<br>
